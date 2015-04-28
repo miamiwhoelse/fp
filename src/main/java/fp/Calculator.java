@@ -1,12 +1,18 @@
 package fp;
-
 import java.util.List;
-
 public class Calculator {
 	/*
 	 * este metodo calcula el seno de un angulo
 	 */
 	static Double sin(double n) {
+		
+		
+		
+		
+		
+		
+		
+		
 		return null;
 	}
 
@@ -14,6 +20,13 @@ public class Calculator {
 	 * Escribir todos los números del number al 0 de step en step.
 	 */
 	static int[] stepThisNumber(int number, int step) {
+		
+	
+		
+		
+		
+		
+		
 		return null;
 	}
 
@@ -22,6 +35,12 @@ public class Calculator {
 	 * divisores que tiene.
 	 */
 	static int[] divisors(int n) {
+		
+		
+		
+		
+		
+		
 		return null;
 	}
 	
@@ -31,6 +50,12 @@ public class Calculator {
 	 * función debe devolver el número de aciertos.
 	 */
 	static Integer checkMyBet(List<Integer> apuesta, List<Integer> aciertos) {
+		
+		
+		
+		
+		
+		
 		return null;
 	}
 
@@ -39,6 +64,11 @@ public class Calculator {
 	 * mostrar: cincuenta y seis
 	 */
 	static String speakToMe(int n) {
+		
+		
+		
+		
+		
 		return null;
 	}
 	
@@ -47,6 +77,11 @@ public class Calculator {
 	 * dd-MM-yyyy
 	 */
 	static boolean isLeapYear(String fecha) {
+		
+		
+		
+		
+		
 		return false;
 	}
 
@@ -54,6 +89,11 @@ public class Calculator {
 	 * este metodo calgula la tangente de un angulo
 	 */
 	static boolean isValidDate(String date) {
+		
+		
+		
+		
+		
 		return false;
 	}
 }
