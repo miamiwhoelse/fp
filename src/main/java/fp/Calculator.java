@@ -2,7 +2,7 @@ package fp;
 import java.util.List;
 public class Calculator {
 	/*
-	 * este metodo calcula el seno de un angulo
+	 * este metodo calcula el seno de un anguloO
 	 */
 	static Double sin(double n) {
 		
